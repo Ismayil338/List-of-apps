@@ -45,7 +45,7 @@
 * [Cursor](https://cursor.com/download) - AI coding agent
 * [Spotify](https://www.spotify.com/us/download/windows/) - audio streaming service
 * [Steam](https://store.steampowered.com/about/)
-* [VMware Workstation Pro](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro) - hypervisor
+* [VMware Workstation Pro](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true) - hypervisor
 
 # Useful WebTools
 * [Google Slitch](https://stitch.withgoogle.com/)
