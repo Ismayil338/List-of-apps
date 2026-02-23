@@ -25,6 +25,6 @@
 * [SP2 for Microsoft Office 2010 (English) x64](https://www.microsoft.com/en-us/download/details.aspx?id=39647)
 
 ## VMware Tools
-* [VMware Tools for Windows Vista SP2](https://packages.vmware.com/tools/releases/11.0.6/windows/VMware-tools-windows-11.0.6-15940789.iso)
-* [VMware Tools for Windows 7 Aug 2018](https://packages.vmware.com/tools/releases/11.3.5/windows/VMware-tools-windows-11.3.5-18557794.iso)
+* [VMware Tools for Windows Vista SP2 & Windows 7 SP1](https://packages.vmware.com/tools/releases/11.0.6/windows/VMware-tools-windows-11.0.6-15940789.iso)
+* [VMware Tools for Windows 7 Aug 2018](https://packages.vmware.com/tools/releases/latest/windows/)
 * [VMware Tools for Beta Builds of Windows 8 and 10](https://packages.vmware.com/tools/releases/10.2.1/windows/VMware-tools-windows-10.2.1-8267844.iso)
