@@ -4,7 +4,7 @@
 * [Windows XP Professional SP3 (English) x86](https://archive.org/details/WinXPProSP3x86)
 * [Windows Vista SP2 (English) x64](https://archive.org/details/en_windows_vista_sp2_x64_dvd_342267_202010)
 * [Windows 7 SP1 Aug 2018 (English) x86/x64](https://archive.org/details/7601.24214.180801-1700.win-7sp-1-ldr-escrow-client-homepremium-x-64-fre-en-us_202212)
-* [Windows 8.1 Core & Pro with Update 3 (English) x64](https://archive.org/details/win-8.1-english-x-64-x-86)
+* [Windows 8.1 Core & Pro with Update 3 (English) x86/x64](https://archive.org/details/win-8.1-english-x-64-x-86)
 * [Windows 10 Consumer and Business Editions (English) x86/x64](https://archive.org/details/OldWindows10MsdnIsoImages_EN_US)
 
 ## Windows (Russian)
