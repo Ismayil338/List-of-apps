@@ -29,7 +29,7 @@
 ### for Windows 7 and 8 (3)
 * [Chocolatey](https://chocolatey.org/install#individual) - package manager
 * [Codium](https://github.com/Alex313031/codium) - IDE, VScodium for Windows 7/8
-* [Supermium](https://github.com/win32ss/supermium) - Chromium fork for Windows XP/2003 and up
+* [Supermium](https://win32subsystem.live/supermium/) - Chromium fork for Windows XP/2003 and up
 
 ### Archive of Open Source Apps (8)
 * [Android Studio](https://developer.android.com/studio) - integrated development environment (IDE)
