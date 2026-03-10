@@ -1,5 +1,9 @@
 # List of ISO Files
 
+## Linux Distros
+* [Debian](https://www.debian.org/)
+* [Fedora Linux](https://fedoraproject.org/torrents/)
+
 ## Windows (English)
 * [Windows XP Professional SP3 (English) x86](https://archive.org/details/WinXPProSP3x86)
 * [Windows Vista SP2 (English) x64](https://archive.org/details/en_windows_vista_sp2_x64_dvd_342267_202010)
