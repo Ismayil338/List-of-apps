@@ -1,6 +1,6 @@
-# List of Apps for Windows (37)
+# List of Apps for Windows (38)
 
-## Open Source Apps (18)
+## Open Source Apps (19)
 * [7-Zip](https://www.7-zip.org/) - file archiver
 * [Chromium](https://github.com/Hibbiki/chromium-win64) - stable builds for Windows x64
 * [G-Helper](https://g-helper.com/) - lightweight control tool for Asus laptops
