@@ -7,6 +7,7 @@
 * [Git](https://git-scm.com/install/windows) - version control system
 * [LocalSend](https://localsend.org/download) - alternative to AirDrop
 * [Microsoft build of OpenJDK](https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-21)
+* [NAPS2](https://www.naps2.com/download) - PDF scanner
 * [Node.js](https://nodejs.org/en/download) - JavaScript runtime environment
 * [Notepad++](https://notepad-plus-plus.org/downloads/) - text editor
 * [OBS Studio](https://obsproject.com/download) - screen recorder
