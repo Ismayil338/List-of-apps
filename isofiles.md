@@ -1,8 +1,8 @@
 # List of ISO Files
 
 ## Linux Distros
-* [Debian](https://www.debian.org/)
 * [Fedora Linux](https://fedoraproject.org/torrents/)
+* [Kubuntu LTS](https://kubuntu.org/download/)
 
 ## Windows (English)
 * [Windows XP Professional SP3 (English) x86](https://archive.org/details/WinXPProSP3x86)
