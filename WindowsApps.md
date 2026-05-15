@@ -1,8 +1,9 @@
 # List of Apps for Windows (38)
 
-## Open Source Apps (19)
+## Open Source Apps (20)
 * [7-Zip](https://www.7-zip.org/) - file archiver
 * [Chromium](https://github.com/Hibbiki/chromium-win64) - stable builds for Windows x64
+* [Firefox](https://www.firefox.com/) - open source browser
 * [G-Helper](https://g-helper.com/) - lightweight control tool for Asus laptops
 * [Git](https://git-scm.com/install/windows) - version control system
 * [LocalSend](https://localsend.org/download) - alternative to AirDrop
