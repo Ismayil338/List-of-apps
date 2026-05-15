@@ -1,4 +1,4 @@
-# List of Apps for Windows (39)
+# List of Apps for Windows (40)
 
 ## Open Source Apps (20)
 * [7-Zip](https://www.7-zip.org/) - file archiver
@@ -43,8 +43,9 @@
 * [universal-android-debloater](https://github.com/0x192/universal-android-debloater)
 * [Wireshark](https://www.wireshark.org/)
 
-## Proprietary Apps (4)
+## Proprietary Apps (5)
 * [Cursor](https://cursor.com/download) - AI coding agent
+* [Discord](https://discord.com/)
 * [Spotify](https://www.spotify.com/us/download/windows/) - audio streaming service
 * [Steam](https://store.steampowered.com/about/)
 * [VMware Workstation Pro](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true) - hypervisor
