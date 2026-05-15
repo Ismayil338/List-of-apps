@@ -1,4 +1,4 @@
-# List of Apps for Windows (38)
+# List of Apps for Windows (39)
 
 ## Open Source Apps (20)
 * [7-Zip](https://www.7-zip.org/) - file archiver
